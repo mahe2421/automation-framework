@@ -21,7 +21,7 @@ dependencies {
             'org.springframework:spring-test:5.2.4.RELEASE',
             'org.springframework:spring-jdbc:5.2.4.RELEASE',
 //  testNG
-            'org.testng:testng:7.10.2',
+            'org.testng:testng:7.8.0',
 //  extent reports
             'com.aventstack:extentreports:4.1.7',// will use 5XX later
 
