@@ -2,5 +2,5 @@ java:
   version: 1.8
 
 build:
-  script: 
-    - ./gradlew build
+  script:
+    - ./gradlew publishToMavenLocal
